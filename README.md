@@ -1,1 +1,1 @@
-Gestiune Farmacie
+Aplicatie de Gestiune Farmacie
